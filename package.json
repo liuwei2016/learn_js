@@ -1,0 +1,10 @@
+{
+  "name": "es2015-spec",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "lliuwei <atedawei.com> (https://atdawei.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
